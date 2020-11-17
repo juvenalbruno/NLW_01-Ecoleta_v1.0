@@ -30,7 +30,8 @@
     # Executar o comando para rodar o projeto mobile
     $ npm start
     
-    # Obs.: Para utilizar o servidor no projeto mobile modificar o endereço da maquina local no arquivo, ItemsController -> imagem_url.
+    # Obs.: 
+            Para utilizar o servidor no projeto mobile modificar o endereço da maquina local no arquivo, ItemsController -> imagem_url.
 
 <h3>🖼 Layout</h3>
 <h4>Janela Home</h4>
