@@ -37,10 +37,10 @@
 <img src="./EcoletaPrints/Captura de tela 2020-11-16 231027.png">
 <br/>
 <h4>Janela de Cadastro (Exemplo)</h4>
-<img src="./EcoletaPrints/Captura de tela 2020-11-16 231359">
+<img src="./EcoletaPrints/Captura de tela 2020-11-16 231359.png">
 <br/>
 <h4>Janela de Cadastro (Exemplo)</h4>
-<img src="./EcoletaPrints/Captura de tela 2020-11-16 231522">
+<img src="./EcoletaPrints/Captura de tela 2020-11-16 231522.png">
 <br/>
 <h4>Janela de Cadastro (Exemplo)</h4>
-<img src="./EcoletaPrints/Captura de tela 2020-11-16 231602">
+<img src="./EcoletaPrints/Captura de tela 2020-11-16 231602.png">
